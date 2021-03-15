@@ -34,11 +34,6 @@
         <name>CustomTab</name>
     </types>
     <types>
-        <members>MetadataServicePatcher</members>
-        <members>MetadataServicePatcher/MetadataServicePatchedCopy</members>
-        <name>Document</name>
-    </types>
-    <types>
         <members>extjs</members>
         <members>jszip</members>
         <name>StaticResource</name>
